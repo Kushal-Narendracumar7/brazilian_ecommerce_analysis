@@ -64,9 +64,9 @@ Exploratory Data Analysis on the [Olist Brazilian E-Commerce Dataset](https://ww
 ---
 
 ## 📊 Sample Visualizations
-![Top Revenue Products](Brazilian_ecommerce\images\most_delayed_cities.png)
-![Yearly Sales](Brazilian_ecommerce\images\yearly_sales.png)
-![Most Delayed Cities](Brazilian_ecommerce\images\yearly_sales.)x
+![Top Revenue Products](images\most_delayed_cities.png)
+![Yearly Sales](images\yearly_sales.png)
+![Most Delayed Cities](images\yearly_sales.)x
 
 
 
